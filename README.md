@@ -1,4 +1,4 @@
-# BeritaSearch - Dense Retrieval AI (UAS TKI)
+# BeritaSearch - Dense Retrieval
 
 Project akhir mata kuliah Temu Kembali Informasi. Aplikasi ini adalah Search Engine Tematik menggunakan metode **Dense Retrieval**.
 
